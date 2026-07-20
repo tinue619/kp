@@ -1,0 +1,603 @@
+{
+  "id": "f17ec9bd-dcb5-4b68-8346-bec3ffa4ccac",
+  "number": "001",
+  "createdAt": "2026-07-18T12:16:02.483Z",
+  "updatedAt": "2026-07-20T12:16:03.943Z",
+  "client": {
+    "name": "Алихан",
+    "phone": "+77085298449",
+    "address": "",
+    "notes": ""
+  },
+  "openings": [
+    {
+      "id": "7647ec7f-3220-436d-b19e-d94a25543f53",
+      "name": "зал",
+      "openW": 1900,
+      "openH": 2500,
+      "variants": [
+        {
+          "id": "d18552c4-d9f9-45a7-8fa2-826585b51732",
+          "name": "Вариант 1",
+          "createdAt": "2026-07-18T12:17:00.004Z",
+          "updatedAt": "2026-07-20T06:44:51.069Z",
+          "snapshot": {
+            "leaves": [
+              {
+                "id": 37,
+                "role": "stationary",
+                "width": 492,
+                "x": -950,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  102
+                ],
+                "hImposts": [
+                  637,
+                  1053,
+                  1701
+                ]
+              },
+              {
+                "id": 38,
+                "role": "door",
+                "width": 492,
+                "x": -491,
+                "profile": "massiv",
+                "cols": 1,
+                "rows": 4,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "L",
+                "vImposts": [],
+                "hImposts": [
+                  747,
+                  1238,
+                  1838
+                ]
+              },
+              {
+                "id": 39,
+                "role": "door",
+                "width": 492,
+                "x": 1,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "R",
+                "vImposts": [
+                  285
+                ],
+                "hImposts": [
+                  850,
+                  1001,
+                  2045
+                ]
+              },
+              {
+                "id": 40,
+                "role": "stationary",
+                "width": 492,
+                "x": 460,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  140
+                ],
+                "hImposts": [
+                  690,
+                  1306,
+                  1782
+                ]
+              }
+            ],
+            "activeId": 40,
+            "system": "oporny",
+            "guideHex": "#C8A84B",
+            "openW": 1900,
+            "openH": 2500,
+            "formula": "СрДДрС",
+            "profileHex": "#C8A84B",
+            "profileRoughness": 0.65,
+            "glassHex": "#3A3A3C",
+            "glassAlpha": 0.38,
+            "glassType": "ribbed",
+            "impost": "std",
+            "profile": "massiv",
+            "cols": 2,
+            "rows": 4,
+            "nextId": 41
+          },
+          "price": 0,
+          "priceNote": ""
+        },
+        {
+          "id": "f4a453b4-98ba-4075-bbb8-eabcf4adcbdb",
+          "name": "Вариант 2",
+          "createdAt": "2026-07-20T05:58:24.241Z",
+          "updatedAt": "2026-07-20T05:58:57.356Z",
+          "snapshot": {
+            "leaves": [
+              {
+                "id": 1,
+                "role": "stationary",
+                "width": 655,
+                "x": -950,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#BEA882",
+                  "profileRoughness": 0.5,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null
+              },
+              {
+                "id": 2,
+                "role": "door",
+                "width": 655,
+                "x": -328,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#BEA882",
+                  "profileRoughness": 0.5,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "L"
+              },
+              {
+                "id": 3,
+                "role": "stationary",
+                "width": 655,
+                "x": 294,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 4,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#BEA882",
+                  "profileRoughness": 0.5,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null
+              }
+            ],
+            "activeId": 1,
+            "system": "oporny",
+            "guideHex": "#BEA882",
+            "openW": 1900,
+            "openH": 2500,
+            "formula": "СрДС",
+            "profileHex": "#BEA882",
+            "profileRoughness": 0.5,
+            "glassHex": "#6B4A2A",
+            "glassAlpha": 0.38,
+            "glassType": "clear",
+            "impost": "std",
+            "profile": "massiv",
+            "cols": 2,
+            "rows": 4,
+            "nextId": 4
+          },
+          "price": 0,
+          "priceNote": ""
+        },
+        {
+          "id": "b49bbcf8-28bd-4e41-9155-de4b7bba9f1a",
+          "name": "Вариант 3",
+          "createdAt": "2026-07-20T05:59:30.152Z",
+          "updatedAt": "2026-07-20T06:01:04.833Z",
+          "snapshot": {
+            "leaves": [
+              {
+                "id": 16,
+                "role": "stationary",
+                "width": 433,
+                "x": -950,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#1C1C1C",
+                  "profileRoughness": 0.82,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  206
+                ],
+                "hImposts": [
+                  614,
+                  1812
+                ]
+              },
+              {
+                "id": 17,
+                "role": "door",
+                "width": 433,
+                "x": -533,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#1C1C1C",
+                  "profileRoughness": 0.82,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "L",
+                "vImposts": [
+                  206
+                ],
+                "hImposts": [
+                  614,
+                  1812
+                ]
+              },
+              {
+                "id": 18,
+                "role": "door",
+                "width": 433,
+                "x": -100,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#1C1C1C",
+                  "profileRoughness": 0.82,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "R",
+                "vImposts": [
+                  206
+                ],
+                "hImposts": [
+                  614,
+                  1812
+                ]
+              },
+              {
+                "id": 19,
+                "role": "stationary",
+                "width": 433,
+                "x": 317,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#1C1C1C",
+                  "profileRoughness": 0.82,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  206
+                ],
+                "hImposts": [
+                  614,
+                  1812
+                ]
+              },
+              {
+                "id": 20,
+                "role": "stationary",
+                "width": 200,
+                "x": 750,
+                "profile": "massiv",
+                "cols": 1,
+                "rows": 3,
+                "glassType": "clear",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#1C1C1C",
+                  "profileRoughness": 0.82,
+                  "glassHex": "#6B4A2A",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [],
+                "hImposts": [
+                  614,
+                  1812
+                ]
+              }
+            ],
+            "activeId": 20,
+            "system": "opk",
+            "guideHex": "#1C1C1C",
+            "openW": 1900,
+            "openH": 2500,
+            "formula": "СрДДрСС200",
+            "profileHex": "#1C1C1C",
+            "profileRoughness": 0.82,
+            "glassHex": "#6B4A2A",
+            "glassAlpha": 0.38,
+            "glassType": "clear",
+            "impost": "std",
+            "profile": "kvadro",
+            "cols": 2,
+            "rows": 4,
+            "nextId": 21
+          },
+          "price": 0,
+          "priceNote": ""
+        }
+      ]
+    },
+    {
+      "id": "7aa6c548-8a24-49d3-84a2-62717c1a1b6c",
+      "name": "спальня",
+      "openW": 2870,
+      "openH": 3200,
+      "variants": [
+        {
+          "id": "1cca5422-64e6-4196-9334-fb5e54c6a01b",
+          "name": "Вариант 1",
+          "createdAt": "2026-07-20T06:54:33.883Z",
+          "updatedAt": "2026-07-20T06:55:04.851Z",
+          "snapshot": {
+            "leaves": [
+              {
+                "id": 1,
+                "role": "stationary",
+                "width": 734,
+                "x": -1435,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  357
+                ],
+                "hImposts": [
+                  812,
+                  2363
+                ]
+              },
+              {
+                "id": 2,
+                "role": "door",
+                "width": 734,
+                "x": -734,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "L",
+                "vImposts": [
+                  357
+                ],
+                "hImposts": [
+                  812,
+                  2363
+                ]
+              },
+              {
+                "id": 3,
+                "role": "door",
+                "width": 734,
+                "x": 0,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": "R",
+                "vImposts": [
+                  357
+                ],
+                "hImposts": [
+                  812,
+                  2363
+                ]
+              },
+              {
+                "id": 4,
+                "role": "stationary",
+                "width": 734,
+                "x": 701,
+                "profile": "massiv",
+                "cols": 2,
+                "rows": 3,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#3A3A3C",
+                  "glassAlpha": 0.38
+                },
+                "slideDir": null,
+                "vImposts": [
+                  357
+                ],
+                "hImposts": [
+                  812,
+                  2363
+                ]
+              }
+            ],
+            "activeId": 4,
+            "system": "oporny",
+            "guideHex": "#C8A84B",
+            "openW": 2870,
+            "openH": 3200,
+            "formula": "СрДДрС",
+            "profileHex": "#C8A84B",
+            "profileRoughness": 0.65,
+            "glassHex": "#3A3A3C",
+            "glassAlpha": 0.38,
+            "glassType": "ribbed",
+            "impost": "std",
+            "profile": "massiv",
+            "cols": 2,
+            "rows": 4,
+            "nextId": 5
+          },
+          "price": 0,
+          "priceNote": ""
+        },
+        {
+          "id": "50a054a9-a739-4145-98d0-4b74a14ee8bd",
+          "name": "Вариант 2",
+          "createdAt": "2026-07-20T06:55:08.523Z",
+          "updatedAt": "2026-07-20T06:55:28.744Z",
+          "snapshot": {
+            "leaves": [
+              {
+                "id": 1,
+                "role": "stationary",
+                "width": 979,
+                "x": -1435,
+                "profile": "massiv",
+                "cols": 1,
+                "rows": 1,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#2A4A5C",
+                  "glassAlpha": 0.35
+                },
+                "slideDir": null
+              },
+              {
+                "id": 2,
+                "role": "door",
+                "width": 979,
+                "x": -489,
+                "profile": "massiv",
+                "cols": 1,
+                "rows": 1,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#2A4A5C",
+                  "glassAlpha": 0.35
+                },
+                "slideDir": "L"
+              },
+              {
+                "id": 3,
+                "role": "stationary",
+                "width": 979,
+                "x": 457,
+                "profile": "massiv",
+                "cols": 1,
+                "rows": 1,
+                "glassType": "ribbed",
+                "impost": "std",
+                "look": {
+                  "profileHex": "#C8A84B",
+                  "profileRoughness": 0.65,
+                  "glassHex": "#2A4A5C",
+                  "glassAlpha": 0.35
+                },
+                "slideDir": null
+              }
+            ],
+            "activeId": 1,
+            "system": "oporny",
+            "guideHex": "#C8A84B",
+            "openW": 2870,
+            "openH": 3200,
+            "formula": "СрДС",
+            "profileHex": "#C8A84B",
+            "profileRoughness": 0.65,
+            "glassHex": "#2A4A5C",
+            "glassAlpha": 0.35,
+            "glassType": "ribbed",
+            "impost": "std",
+            "profile": "massiv",
+            "cols": 1,
+            "rows": 1,
+            "nextId": 4
+          },
+          "price": 0,
+          "priceNote": ""
+        }
+      ]
+    }
+  ]
+}
